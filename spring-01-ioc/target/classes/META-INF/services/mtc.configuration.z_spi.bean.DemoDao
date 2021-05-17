@@ -1,0 +1,2 @@
+mtc.configuration.z_spi.bean.DemoMySQLDaoImpl
+mtc.configuration.z_spi.bean.DemoOracleDaoImpl
